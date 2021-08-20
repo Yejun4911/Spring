@@ -1,0 +1,46 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+	$.ajax({
+		url: "api/phone",
+		type: "GET",
+		contentType: "application/json;charset=utf-8",
+		datatype:'json',
+		error: function(xhr, status, message){
+			alert("error: "+ message);
+		},
+		
+		success:function(data){
+			$('#book-list').empty();
+			$('#book-list').append("<ul>");
+			for(var i=0; i<data.length; i++){
+				$('#book-list').append("<li onclick=bookInfo('"+data[i].isbn+"')>"+ data[i].isbn+ "</li>");			
+		}
+		$('#book-list').append("</ul>");
+		
+		}//callback
+	});//ajax
+});
+</script>
+
+</head>
+<body>
+<table>
+	<tr>
+		<th>모델번호</th>
+		<th>모델이름</th>
+		<th>가격</th>
+		<th>제조사명</th>
+	</tr>
+	<tr class="phoneList">
+	</tr>		
+</table>
+</body>
+</html>

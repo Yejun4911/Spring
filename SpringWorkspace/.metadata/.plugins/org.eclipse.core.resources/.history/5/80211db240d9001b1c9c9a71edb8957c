@@ -1,0 +1,28 @@
+package com.encore.spring.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class AjaxController {
+	@RequestMapping("/")
+	public String index() {
+		System.out.println("/.......calling");
+		return "redirect:index.jsp";
+				
+	}
+	@RequestMapping("synchro")
+	public String synchro(Model model) {
+		model.addAttribute("info","와~~ 동기통신!!");
+		System.out.println("동기 통신... synchro() calling...");
+		return "synchro_result";
+	}
+	
+	@RequestMapping("asynch")
+	public String asynch(Model model) {
+		System.out.println("비동기 통신... synchro() calling...");
+		return "synchro_result";
+	}
+	
+}

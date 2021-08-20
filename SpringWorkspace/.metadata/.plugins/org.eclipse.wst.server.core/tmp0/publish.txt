@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Thu Jul 15 22:32:30 KST 2021
+org.eclipse.jst.jee.server\:BoardTest_Template=C\:\\Users\\mm\\Desktop\\encore_cyj\\apache-tomcat-8.5.64\\webapps\\BoardTest_Template
+org.eclipse.jst.jee.server\:sp15_Restful_Phone=C\:\\Users\\mm\\Desktop\\encore_cyj\\apache-tomcat-8.5.64\\webapps\\sp15_Restful_Phone
+org.eclipse.jst.jee.server\:PeachProject_Refactoring=C\:\\Users\\mm\\Desktop\\encore_cyj\\apache-tomcat-8.5.64\\webapps\\PeachProject_Refactoring

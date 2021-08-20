@@ -1,0 +1,38 @@
+
+6월 29, 2021 12:48:16.69 NEW SESSION
+6월 29, 2021 12:48:16.69 [8776:5460:0629/124816.692:ERROR:device_event_log_impl.cc(214)] [12:48:16.691] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: �떆�뒪�뀥�뿉 遺�李⑸맂 �옣移섍� �옉�룞�븯吏� �븡�뒿�땲�떎. (0x1F)
+6월 29, 2021 12:48:16.70 [8776:5460:0629/124816.703:ERROR:device_event_log_impl.cc(214)] [12:48:16.703] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: �떆�뒪�뀥�뿉 遺�李⑸맂 �옣移섍� �옉�룞�븯吏� �븡�뒿�땲�떎. (0x1F)
+6월 29, 2021 12:48:16.70 [8776:5460:0629/124816.709:ERROR:device_event_log_impl.cc(214)] [12:48:16.708] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: �떆�뒪�뀥�뿉 遺�李⑸맂 �옣移섍� �옉�룞�븯吏� �븡�뒿�땲�떎. (0x1F)
+6월 29, 2021 12:48:16.72 [8776:5460:0629/124816.728:ERROR:device_event_log_impl.cc(214)] [12:48:16.727] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: �떆�뒪�뀥�뿉 遺�李⑸맂 �옣移섍� �옉�룞�븯吏� �븡�뒿�땲�떎. (0x1F)
+
+6월 30, 2021 12:05:39.57 NEW SESSION
+6월 30, 2021 12:05:39.57 [4168:9724:0630/120539.567:ERROR:device_event_log_impl.cc(214)] [12:05:39.567] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: �떆�뒪�뀥�뿉 遺�李⑸맂 �옣移섍� �옉�룞�븯吏� �븡�뒿�땲�떎. (0x1F)
+6월 30, 2021 12:05:39.57 [4168:9724:0630/120539.572:ERROR:device_event_log_impl.cc(214)] [12:05:39.572] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: �떆�뒪�뀥�뿉 遺�李⑸맂 �옣移섍� �옉�룞�븯吏� �븡�뒿�땲�떎. (0x1F)
+6월 30, 2021 12:05:39.57 [4168:9724:0630/120539.574:ERROR:device_event_log_impl.cc(214)] [12:05:39.574] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: �떆�뒪�뀥�뿉 遺�李⑸맂 �옣移섍� �옉�룞�븯吏� �븡�뒿�땲�떎. (0x1F)
+6월 30, 2021 12:05:39.59 [4168:9724:0630/120539.590:ERROR:device_event_log_impl.cc(214)] [12:05:39.590] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: �떆�뒪�뀥�뿉 遺�李⑸맂 �옣移섍� �옉�룞�븯吏� �븡�뒿�땲�떎. (0x1F)
+6월 30, 2021 12:05:39.60 [4168:9724:0630/120539.602:ERROR:device_event_log_impl.cc(214)] [12:05:39.602] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: �떆�뒪�뀥�뿉 遺�李⑸맂 �옣移섍� �옉�룞�븯吏� �븡�뒿�땲�떎. (0x1F)
+6월 30, 2021 12:39:21.11 [4168:9724:0630/123921.112:ERROR:device_event_log_impl.cc(214)] [12:39:21.112] USB: usb_service_win.cc:258 Failed to get device driver name: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+6월 30, 2021 16:10:38.77 [3712:1524:0630/161038.772:ERROR:device_event_log_impl.cc(214)] [16:10:38.771] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: �떆�뒪�뀥�뿉 遺�李⑸맂 �옣移섍� �옉�룞�븯吏� �븡�뒿�땲�떎. (0x1F)
+6월 30, 2021 16:10:38.77 [3712:1524:0630/161038.777:ERROR:device_event_log_impl.cc(214)] [16:10:38.776] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: �떆�뒪�뀥�뿉 遺�李⑸맂 �옣移섍� �옉�룞�븯吏� �븡�뒿�땲�떎. (0x1F)
+6월 30, 2021 16:10:38.77 [3712:1524:0630/161038.778:ERROR:device_event_log_impl.cc(214)] [16:10:38.777] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: �떆�뒪�뀥�뿉 遺�李⑸맂 �옣移섍� �옉�룞�븯吏� �븡�뒿�땲�떎. (0x1F)
+6월 30, 2021 16:10:38.79 [3712:1524:0630/161038.796:ERROR:device_event_log_impl.cc(214)] [16:10:38.795] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: �떆�뒪�뀥�뿉 遺�李⑸맂 �옣移섍� �옉�룞�븯吏� �븡�뒿�땲�떎. (0x1F)
+6월 30, 2021 16:10:38.80 [3712:1524:0630/161038.805:ERROR:device_event_log_impl.cc(214)] [16:10:38.804] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: �떆�뒪�뀥�뿉 遺�李⑸맂 �옣移섍� �옉�룞�븯吏� �븡�뒿�땲�떎. (0x1F)
+6월 30, 2021 16:28:23.52 [3712:1524:0630/162823.522:ERROR:device_event_log_impl.cc(214)] [16:28:23.521] USB: usb_service_win.cc:258 Failed to get device driver name: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+
+7월 02, 2021 14:51:22.80 NEW SESSION
+7월 02, 2021 14:51:22.80 [8400:8568:0702/145122.798:ERROR:device_event_log_impl.cc(214)] [14:51:22.798] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: �떆�뒪�뀥�뿉 遺�李⑸맂 �옣移섍� �옉�룞�븯吏� �븡�뒿�땲�떎. (0x1F)
+7월 02, 2021 14:51:22.80 [8400:8568:0702/145122.803:ERROR:device_event_log_impl.cc(214)] [14:51:22.803] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: �떆�뒪�뀥�뿉 遺�李⑸맂 �옣移섍� �옉�룞�븯吏� �븡�뒿�땲�떎. (0x1F)
+7월 02, 2021 14:51:22.81 [8400:8568:0702/145122.811:ERROR:device_event_log_impl.cc(214)] [14:51:22.810] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: �떆�뒪�뀥�뿉 遺�李⑸맂 �옣移섍� �옉�룞�븯吏� �븡�뒿�땲�떎. (0x1F)
+7월 02, 2021 14:56:59.10 [8400:8568:0702/145659.108:ERROR:device_event_log_impl.cc(214)] [14:56:59.108] USB: usb_service_win.cc:258 Failed to get device driver name: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+
+7월 05, 2021 15:22:16.52 NEW SESSION
+7월 05, 2021 15:22:16.52 [3144:15620:0705/152216.520:ERROR:device_event_log_impl.cc(214)] [15:22:16.520] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: �떆�뒪�뀥�뿉 遺�李⑸맂 �옣移섍� �옉�룞�븯吏� �븡�뒿�땲�떎. (0x1F)
+7월 05, 2021 15:22:16.52 [3144:15620:0705/152216.525:ERROR:device_event_log_impl.cc(214)] [15:22:16.525] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: �떆�뒪�뀥�뿉 遺�李⑸맂 �옣移섍� �옉�룞�븯吏� �븡�뒿�땲�떎. (0x1F)
+7월 05, 2021 15:22:16.52 [3144:15620:0705/152216.527:ERROR:device_event_log_impl.cc(214)] [15:22:16.527] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: �떆�뒪�뀥�뿉 遺�李⑸맂 �옣移섍� �옉�룞�븯吏� �븡�뒿�땲�떎. (0x1F)
+7월 05, 2021 15:22:16.54 [3144:15620:0705/152216.543:ERROR:device_event_log_impl.cc(214)] [15:22:16.542] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: �떆�뒪�뀥�뿉 遺�李⑸맂 �옣移섍� �옉�룞�븯吏� �븡�뒿�땲�떎. (0x1F)
+7월 05, 2021 15:22:16.55 [3144:15620:0705/152216.555:ERROR:device_event_log_impl.cc(214)] [15:22:16.554] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: �떆�뒪�뀥�뿉 遺�李⑸맂 �옣移섍� �옉�룞�븯吏� �븡�뒿�땲�떎. (0x1F)
+7월 05, 2021 15:26:38.16 [14516:16900:0705/152638.162:ERROR:device_event_log_impl.cc(214)] [15:26:38.163] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: �떆�뒪�뀥�뿉 遺�李⑸맂 �옣移섍� �옉�룞�븯吏� �븡�뒿�땲�떎. (0x1F)
+7월 05, 2021 15:26:38.16 [14516:16900:0705/152638.168:ERROR:device_event_log_impl.cc(214)] [15:26:38.169] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: �떆�뒪�뀥�뿉 遺�李⑸맂 �옣移섍� �옉�룞�븯吏� �븡�뒿�땲�떎. (0x1F)
+7월 05, 2021 15:26:38.16 [14516:16900:0705/152638.169:ERROR:device_event_log_impl.cc(214)] [15:26:38.169] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: �떆�뒪�뀥�뿉 遺�李⑸맂 �옣移섍� �옉�룞�븯吏� �븡�뒿�땲�떎. (0x1F)
+7월 05, 2021 15:26:38.19 [14516:16900:0705/152638.192:ERROR:device_event_log_impl.cc(214)] [15:26:38.192] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: �떆�뒪�뀥�뿉 遺�李⑸맂 �옣移섍� �옉�룞�븯吏� �븡�뒿�땲�떎. (0x1F)
+7월 05, 2021 15:26:38.19 [14516:16900:0705/152638.195:ERROR:device_event_log_impl.cc(214)] [15:26:38.195] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: �떆�뒪�뀥�뿉 遺�李⑸맂 �옣移섍� �옉�룞�븯吏� �븡�뒿�땲�떎. (0x1F)
